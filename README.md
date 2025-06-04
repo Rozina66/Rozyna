@@ -1,2 +1,2 @@
-# Rozyna
+# Ebay
 Data Acqusition project
